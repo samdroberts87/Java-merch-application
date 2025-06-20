@@ -1,6 +1,6 @@
 Java – Merch app
 
-![CI](https://github.com/samdroberts87/Java-merch-application/blob/main/.github/workflows/CI.yml/badge.svg)
+![CI](https://github.com/samdroberts87/Java-merch-application/actions/workflows/CI.yml/badge.svg)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 This application is about creating a Console Application which tracks the
