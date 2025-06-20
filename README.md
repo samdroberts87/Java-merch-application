@@ -11,6 +11,8 @@ as the Suppliers.
 
 This was done as a way to show my core java understanding.
 
+### In addition to the below instructions, I've packaged the jar with maven, built the image with docker and scanned the image for vulnerabilities with trivy in a CI pipeline with GitHub actions.
+
 Instructions are as follows:
 
 - Create application with proper packages namely:
