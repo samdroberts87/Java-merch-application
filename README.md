@@ -1,4 +1,7 @@
 Java – Merch app
+
+![CI](https://github.com/samdroberts87/Java-merch-application/blob/main/.github/workflows/CI.yml/badge.svg)
+
 ------------------------------------------------------------------------------------------------------------------------------------
 This application is about creating a Console Application which tracks the
 details of the merchandising partners. The merchandising Partners are
